@@ -1,0 +1,7 @@
+id=OffTombstoned
+name=Off Tombstoned
+version=v3
+versionCode=3
+author=@LeanHijosdesusMadres
+description=Tombstoned is the process responsible for generating system crash reports in the background.
+support=https://t.me/modulostk
